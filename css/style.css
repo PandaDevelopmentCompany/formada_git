@@ -4848,7 +4848,7 @@ html:not(.mobile):not(.tablet) .thumb-chloe:hover .thumb-chloe__caption {
 }
 
 .loadingProgressG {
-	background: #aa182C;
+	background: #ed462f;
 	margin-top: 0;
 	margin-left: -400px;
 	animation-name: bounce_loadingProgressG;
@@ -13711,7 +13711,7 @@ html.boxed .rd-navbar--is-clone {
 	z-index: 1;
 	transform: scale(0.5);
 	opacity: 0;
-	border: 2px solid #aa182c !important;
+	border: 2px solid #ed462f !important;
 	border-radius: inherit;
 	transition: .22s ease-in;
 }

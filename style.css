@@ -4848,7 +4848,7 @@ html:not(.mobile):not(.tablet) .thumb-chloe:hover .thumb-chloe__caption {
 }
 
 .loadingProgressG {
-	background: #aa182C;
+	background: #ed462f;
 	margin-top: 0;
 	margin-left: -400px;
 	animation-name: bounce_loadingProgressG;
