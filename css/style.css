@@ -14090,7 +14090,7 @@ html.boxed .rd-navbar--is-clone {
 }
 
 .swiper-slider_style-3 .swiper-slider {
-/*	min-height: 39.0625vw;*/
+	min-height: 39.0625vw;
 }
 
 .swiper-slider_style-3 .swiper-slide-caption {
@@ -18439,6 +18439,6 @@ yx-axis
 }
 
 /* header на всю высоту */
-.section.swiper-slider_style-3.swiper-buttons-alternate {
+/*.section.swiper-slider_style-3.swiper-buttons-alternate {
 	height: 100vh !important;
-}
+}*/
