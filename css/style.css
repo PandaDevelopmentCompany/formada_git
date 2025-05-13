@@ -18439,6 +18439,9 @@ yx-axis
 }
 
 /* header на всю высоту */
-/*.section.swiper-slider_style-3.swiper-buttons-alternate {
+.section.swiper-slider_style-3.swiper-buttons-alternate {
 	height: 100vh !important;
-}*/
+}
+.swiper-container.swiper-slider.swiper-container-horizontal {
+		min-height: 100vh !important;
+	}
