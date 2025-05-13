@@ -18437,3 +18437,8 @@ yx-axis
 		background-position-x: center !important;
 	}
 }
+
+/* header на всю высоту */
+.section.swiper-slider_style-3.swiper-buttons-alternate {
+	height: 100vh !important;
+}
